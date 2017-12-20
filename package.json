@@ -1,0 +1,10 @@
+{
+  "name": "netninja-angular",
+  "version": "0.0.1",
+  "description": "Angular App for Ninjas",
+  "main": "app.js",
+  "repository": "https://github.com/apolloinfinity/netninja-angular.git",
+  "author": "Javier Ramirez <apollo.infinity88@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
